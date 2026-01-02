@@ -1,0 +1,24 @@
+
+
+/node_modules
+
+# testing
+/coverage
+
+/.next/
+/out/
+
+/build
+
+
+.DS_Store
+*.pem
+
+npm-debug.log*
+
+.env*
+
+.vercel
+
+*.tsbuildinfo
+next-env.d.ts
